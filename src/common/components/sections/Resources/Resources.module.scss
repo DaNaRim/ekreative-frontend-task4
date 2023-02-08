@@ -1,0 +1,57 @@
+@import "src/assets/styles/color-palette";
+@import "src/assets/styles/style-constants";
+
+.resources {
+  padding: 6em $sectionPaddingX;
+  color: $grey600;
+  background-color: $grey50;
+
+  .preHeading {
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5rem;
+    color: $primary600;
+  }
+
+  h1 {
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 3.75rem;
+    margin-top: 0.3em;
+    color: $grey900;
+  }
+
+  .desc {
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.875rem;
+    margin-top: 1em;
+  }
+
+  .inputWrapper {
+    display: flex;
+    align-items: center;
+    height: 3em;
+    margin-top: 2.5em;
+    gap: 1em;
+
+    button {
+      font-size: 1rem;
+      font-weight: 600;
+      line-height: 24px;
+      height: 100%;
+      padding: 0.75em 1.25em;
+    }
+  }
+
+  .policy {
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.25em;
+    margin-top: 0.375em;
+
+    a {
+      text-decoration: underline;
+    }
+  }
+}

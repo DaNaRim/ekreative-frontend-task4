@@ -1,3 +1,4 @@
+import Button from "../../form/Button/Button";
 import Logo from "../Logo/Logo";
 import Nav from "../Nav/Nav";
 import styles from "./Header.module.scss";
@@ -23,7 +24,7 @@ const Header = () => {
       </div>
       <div className={styles.auth}>
         <button className={styles.logIn} onClick={onLogIn}>Log in</button>
-        <button className={styles.signUp} onClick={onSignUp}>Sign up</button>
+        <Button onClick={onSignUp}>Sign up</Button>
       </div>
     </header>
   );

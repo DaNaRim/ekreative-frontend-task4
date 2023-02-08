@@ -1,0 +1,47 @@
+@import "src/assets/styles/color-palette";
+
+$inputBackground: white;
+$inputPaddingX: 0.875em;
+
+p.inputWrapper {
+  position: relative;
+
+  input {
+    box-sizing: border-box;
+    width: 22.5em;
+    height: 3em;
+    padding: 0.75em $inputPaddingX;
+    opacity: 0.5;
+    color: $grey500;
+    border: 1px solid #d0d5dd;
+    border-radius: 0.5em;
+    background-color: $inputBackground;
+    box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+
+    &:focus {
+      outline: none;
+    }
+
+    &:is(:focus, :not(:placeholder-shown)) + label {
+      font-size: 0.8rem;
+      top: 0.5px; /*half of input border */
+      padding: 0 0.2em;
+      opacity: 1;
+    }
+  }
+
+  label {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    position: absolute;
+    z-index: 0;
+    top: 50%;
+    left: $inputPaddingX;
+    display: block;
+    transition: top 0.3s ease, font-size 0.3s ease, opacity 0.3s ease;
+    transform: translateY(-50%);
+    color: $grey500;
+    background-color: $inputBackground;
+  }
+}
