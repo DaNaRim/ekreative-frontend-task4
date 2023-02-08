@@ -39,8 +39,8 @@ $logoSize: 2em;
         list-style: none;
         gap: 2em;
 
-        li {
-
+        li a:hover {
+          text-decoration: underline;
         }
       }
     }
@@ -54,6 +54,7 @@ $logoSize: 2em;
     button {
       height: 100%;
       padding: 0.625em 1.125em;
+      cursor: pointer;
       border: none;
       border-radius: 0.5em;
 
