@@ -1,0 +1,72 @@
+@import "src/assets/styles/color-palette";
+@import "src/assets/styles/style-constants";
+
+$logoSize: 2em;
+
+.main_header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.75em $paddingX;
+  background-color: $grey50;
+
+  .leftSide {
+    display: flex;
+    align-items: center;
+
+    .logo {
+      display: flex;
+      align-items: center;
+
+      .logoIcon {
+        width: $logoSize;
+        height: $logoSize;
+      }
+
+      h2 {
+        margin-left: 0.4em;
+        white-space: nowrap;
+        color: $grey900;
+      }
+    }
+
+    nav {
+      margin-left: 2.5em;
+
+      ul {
+        display: flex;
+        padding: 0;
+        list-style: none;
+        gap: 2em;
+
+        li {
+
+        }
+      }
+    }
+  }
+
+  .auth {
+    display: flex;
+    height: 2.75em;
+    gap: 1em;
+
+    button {
+      height: 100%;
+      padding: 0.625em 1.125em;
+      border: none;
+      border-radius: 0.5em;
+
+      &.logIn {
+        color: $grey600;
+        background-color: transparent;
+      }
+
+      &.signUp {
+        color: white;
+        background-color: $primary600;
+        box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+      }
+    }
+  }
+}

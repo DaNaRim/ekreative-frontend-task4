@@ -5,7 +5,7 @@ import Header from "../Header/Header";
 import Loading from "../Loading/Loading";
 import styles from "./PageWrapper.module.scss";
 
-export const PageWrapper = (
+const PageWrapper = () => (
   <div className={styles.page_wrapper}>
     <Header className={styles.main_header}/>
     <Suspense fallback={<Loading/>}>

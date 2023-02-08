@@ -1,7 +1,7 @@
 import {Route, Routes} from "react-router";
 import PageWrapper from "../common/components/base/PageWrapper/PageWrapper";
 import HomePage from "../common/pages/HomePage/HomePage";
-import "./App.css";
+import "./App.scss";
 
 const App = () => (
   <Routes>
