@@ -10,6 +10,7 @@ const Resources = () => {
 
   const onGetStarted = () => {
     alert("Get started");
+    setEmail("");
   };
 
   return (
