@@ -6,7 +6,7 @@ import "./App.scss";
 const App = () => (
   <Routes>
     <Route path="/" element={<PageWrapper/>}>
-      <Route path="/" index element={<HomePage/>}/>
+      <Route path="/:page?" index element={<HomePage/>}/>
 
     </Route>
   </Routes>

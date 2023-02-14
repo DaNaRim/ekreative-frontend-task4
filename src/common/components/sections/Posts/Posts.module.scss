@@ -1,0 +1,144 @@
+@import "src/assets/styles/style-constants";
+@import "src/assets/styles/color-palette";
+
+.posts {
+  padding: 6em $sectionPaddingX;
+
+  > header {
+    display: flex;
+    justify-content: space-between;
+    height: 2.75em;
+    margin-bottom: 2em;
+
+    .searchBar {
+      position: relative;
+      width: 17.5em;
+      height: 100%;
+
+      input {
+        width: 100%;
+        height: 100%;
+        padding-left: 3em;
+      }
+
+      label {
+        left: 3em;
+      }
+
+      svg {
+        position: absolute;
+        top: 50%;
+        left: 1em;
+        transform: translateY(-50%);
+      }
+    }
+
+    .order {
+      position: relative;
+      height: 100%;
+
+      select {
+        width: 15em;
+        height: 100%;
+        padding-left: 1em;
+        border: 1px solid $grey300;
+        border-radius: 0.5em;
+        background: #fff;
+        box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+        appearance: none;
+
+        &:focus {
+          outline: none;
+        }
+      }
+
+      svg {
+        position: absolute;
+        top: 50%;
+        right: 1em;
+        transform: translateY(-50%);
+      }
+    }
+  }
+
+  > main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 2em;
+  }
+
+  > footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4em;
+    padding-top: 1.375em;
+    border-top: 1px solid $grey200;
+
+    button {
+      width: fit-content;
+      height: 2.25em;
+      padding: 0 1em;
+      color: $grey700;
+      border: 1px solid $grey300;
+      background-color: white;
+      box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+
+      &:disabled {
+        cursor: not-allowed;
+        color: $grey500;
+        border-color: $grey200;
+        background-color: $grey50;
+        box-shadow: none;
+      }
+    }
+
+    .left {
+      position: relative;
+
+      button {
+        padding-left: 2em;
+      }
+
+      svg {
+        position: absolute;
+        top: 50%;
+        left: 1em;
+        transform: translateY(-50%);
+      }
+    }
+
+    .right {
+      position: relative;
+
+      button {
+        padding-right: 2em;
+      }
+
+      svg {
+        position: absolute;
+        top: 50%;
+        right: 1em;
+        transform: translateY(-50%);
+      }
+    }
+
+    .pagination ul {
+      display: flex;
+      padding: 0;
+      list-style: none;
+      gap: 0.5em;
+
+      li {
+        &:not(.dots) {
+          cursor: pointer;
+        }
+
+        &.active {
+          color: red;
+        }
+      }
+    }
+  }
+}
+
