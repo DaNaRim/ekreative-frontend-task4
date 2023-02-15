@@ -153,12 +153,20 @@
       gap: 0.5em;
 
       li {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 2.5em;
+        height: 2.5em;
+        color: $grey800;
+        background-color: $grey50;
+
         &:not(.dots) {
           cursor: pointer;
         }
 
         &.active {
-          color: red;
+          font-weight: 600;
         }
       }
     }
