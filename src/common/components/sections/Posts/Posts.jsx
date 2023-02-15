@@ -1,5 +1,5 @@
 import {library} from "@fortawesome/fontawesome-svg-core";
-import {faAngleDown, faAngleLeft, faAngleRight, faMagnifyingGlass} from "@fortawesome/free-solid-svg-icons";
+import {faAngleDown, faAngleLeft, faAngleRight, faMagnifyingGlass, faXmark} from "@fortawesome/free-solid-svg-icons";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {useEffect, useState} from "react";
 import {useSearchParams} from "react-router-dom";
@@ -9,7 +9,7 @@ import Input from "../../form/Input/Input";
 import PostPreview from "../../other/PostPreview/PostPreview";
 import styles from "./Posts.module.scss";
 
-library.add(faMagnifyingGlass, faAngleDown, faAngleRight, faAngleLeft);
+library.add(faMagnifyingGlass, faAngleDown, faAngleRight, faAngleLeft, faXmark);
 
 const POSTS_PER_PAGE = 10;
 
@@ -52,6 +52,10 @@ const Posts = () => {
     setCurSearch(value);
     searchParams.set("search", value);
     setSearchParams(searchParams);
+  };
+
+  const clearSearch = () => {
+    setCurSearch("");
   };
 
   const handleOrder = (value) => {
@@ -123,7 +127,12 @@ const Posts = () => {
       <header>
         <div className={styles.searchBar}>
           <Input type="search" placeholder="Search" value={curSearch} setValue={handleSearch}/>
-          <FontAwesomeIcon icon="fa-solid fa-magnifying-glass"/>
+          <FontAwesomeIcon className={styles.glass} icon="fa-solid fa-magnifying-glass"/>
+          <FontAwesomeIcon className={styles.xMark}
+                           icon="fa-solid fa-xmark"
+                           style={curSearch ? {display: "block"} : {}}
+                           onClick={clearSearch}
+          />
         </div>
         <div className={styles.order}>
           <select name="order" value={order} onChange={e => handleOrder(e.target.value)}>
