@@ -1,0 +1,95 @@
+@use "src/common/components/base/Header/Header.module";
+
+@import "src/assets/styles/color-palette";
+@import "src/assets/styles/style-constants";
+
+.mainFooter {
+  padding: 4em $sectionPaddingX 3em;
+  color: white;
+  background-color: $grey800;
+
+  main {
+    display: flex;
+    justify-content: space-between;
+
+    .leftSide {
+      margin-bottom: 4em;
+
+      .logo {
+        @include Header.logo;
+
+        h2 {
+          color: white;
+        }
+
+        .logoIcon {
+          //Styles imported from Header.logo. I add this to avoid warning in jsx file
+        }
+      }
+
+      nav ul {
+        display: flex;
+        margin-top: 2em;
+        padding: 0;
+        list-style: none;
+        gap: 2em;
+
+        li:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    .rightSide {
+      p {
+        font-size: 0.875rem;
+        font-weight: 500;
+        line-height: 1.25rem;
+      }
+
+      .emailWrapper {
+        display: flex;
+        height: 2.75em;
+        margin-top: 1em;
+        gap: 1em;
+
+        input {
+          width: 14.25em;
+          height: 100%;
+        }
+
+        button {
+          height: 100%;
+        }
+      }
+    }
+  }
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2em;
+    border-top: 1px solid $grey600;
+
+    > p {
+      font-weight: 400;
+      line-height: 1.5rem;
+      color: $grey300;
+    }
+
+    .links {
+      display: flex;
+      gap: 1em;
+
+      a {
+        font-weight: 400;
+        line-height: 1.5rem;
+        color: $grey500;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}

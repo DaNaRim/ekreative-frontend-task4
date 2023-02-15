@@ -1,6 +1,6 @@
 import Button from "../../form/Button/Button";
 import Logo from "../Logo/Logo";
-import Nav from "../Nav/Nav";
+import NavHeader from "../NavHeader/NavHeader";
 import styles from "./Header.module.scss";
 
 const Header = () => {
@@ -20,7 +20,7 @@ const Header = () => {
           <Logo className={styles.logoIcon}/>
           <h2>Untitled UI</h2>
         </div>
-        <Nav/>
+        <NavHeader/>
       </div>
       <div className={styles.auth}>
         <button className={styles.logIn} onClick={onLogIn}>Log in</button>

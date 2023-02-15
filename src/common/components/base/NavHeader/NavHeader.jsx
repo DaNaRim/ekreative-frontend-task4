@@ -1,6 +1,6 @@
 import {NavLink} from "react-router-dom";
 
-const Nav = () => (
+const NavHeader = () => (
   <nav>
     <ul>
       <li><NavLink to="/">Home</NavLink></li>
@@ -11,4 +11,4 @@ const Nav = () => (
   </nav>
 );
 
-export default Nav;
+export default NavHeader;

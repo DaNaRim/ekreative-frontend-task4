@@ -24,7 +24,7 @@ p.inputWrapper {
     &:is(:focus, :not(:placeholder-shown)) + label {
       font-size: 0.8rem;
       top: 0.5px; /*half of input border */
-      padding: 0 0.2em;
+      padding: 0 0.4em;
       opacity: 1;
     }
   }
@@ -41,6 +41,7 @@ p.inputWrapper {
     transition: top 0.3s ease, font-size 0.3s ease, opacity 0.3s ease;
     transform: translateY(-50%);
     color: $grey500;
+    border-radius: 0.5em;
     background-color: $inputBackground;
   }
 }

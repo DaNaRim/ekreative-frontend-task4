@@ -3,6 +3,22 @@
 
 $logoSize: 2em;
 
+@mixin logo {
+  display: flex;
+  align-items: center;
+
+  .logoIcon {
+    width: $logoSize;
+    height: $logoSize;
+  }
+
+  h2 {
+    margin-left: 0.4em;
+    white-space: nowrap;
+    color: $grey900;
+  }
+}
+
 .main_header {
   display: flex;
   align-items: center;
@@ -15,18 +31,10 @@ $logoSize: 2em;
     align-items: center;
 
     .logo {
-      display: flex;
-      align-items: center;
+      @include logo;
 
       .logoIcon {
-        width: $logoSize;
-        height: $logoSize;
-      }
-
-      h2 {
-        margin-left: 0.4em;
-        white-space: nowrap;
-        color: $grey900;
+        //Styles imported from Header.logo. I add this to avoid warning in jsx file
       }
     }
 
