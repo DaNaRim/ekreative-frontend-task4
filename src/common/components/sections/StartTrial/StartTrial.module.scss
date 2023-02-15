@@ -1,0 +1,137 @@
+@import "src/assets/styles/color-palette";
+@import "src/assets/styles/style-constants";
+
+.startTrial {
+  main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 6em $sectionPaddingX 0;
+
+    .leftSide {
+
+      h2 {
+        font-size: 3rem;
+        font-weight: 600;
+        line-height: 3.75rem;
+        letter-spacing: -0.02em;
+        color: $grey900;
+      }
+
+      p {
+        font-size: 1.25rem;
+        font-weight: 400;
+        line-height: 1.875rem;
+        margin-top: 1.5em;
+        color: $grey600;
+      }
+
+      .btnWrapper {
+        margin-top: 2.5em;
+
+        button:nth-child(1) {
+          color: $grey700;
+          border: 1px solid $grey300;
+          background: #fff;
+        }
+
+        button:nth-child(2) {
+          margin-left: 0.75em;
+        }
+      }
+    }
+
+    .rightSide {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      width: 38em;
+      min-width: 38em;
+      gap: 1em;
+
+      img {
+        object-fit: cover;
+        $centerTransform: 25%;
+
+        &:nth-child(1) {
+          align-self: end;
+          width: 10em;
+          height: 10em;
+          transform: translateX($centerTransform);
+        }
+
+        &:nth-child(2) {
+          width: 10em;
+          height: 15em;
+          margin-right: 5em;
+          transform: translateX($centerTransform);
+        }
+
+        &:nth-child(3) {
+          width: 12em;
+          height: 8em;
+        }
+
+        &:nth-child(4) {
+          width: 10em;
+          height: 15em;
+        }
+
+        &:nth-child(5) {
+          width: 12em;
+          height: 8em;
+        }
+      }
+    }
+  }
+
+  footer {
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    height: 25em;
+    padding: 0 $sectionPaddingX 0;
+    background: linear-gradient(to bottom, white 50%, $grey800 50%);
+
+    .footerWrapper {
+      display: flex;
+      justify-content: space-between;
+      box-sizing: border-box;
+      width: 100%;
+      padding: 4em;
+      border-radius: 1em;
+      background: $grey50;
+      box-shadow: 0 20px 24px -4px rgba(16, 24, 40, 0.08), 0px 8px 8px -4px rgba(16, 24, 40, 0.03);
+
+      .leftSide {
+        h3 {
+          font-size: 1.875rem;
+          font-weight: 600;
+          line-height: 2.375rem;
+          color: $grey900;
+        }
+
+        p {
+          font-size: 1.25rem;
+          font-weight: 400;
+          line-height: 1.875rem;
+          margin-top: 1em;
+          color: $grey600;
+        }
+      }
+
+      .rightSide {
+
+        button:nth-child(1) {
+          color: $grey700;
+          border: 1px solid $grey300;
+          background: #fff;
+        }
+
+        button:nth-child(2) {
+          margin-left: 0.75em;
+        }
+      }
+    }
+  }
+}
