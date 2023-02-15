@@ -11,7 +11,7 @@ import styles from "./Posts.module.scss";
 
 library.add(faMagnifyingGlass, faAngleDown, faAngleRight, faAngleLeft, faXmark);
 
-const POSTS_PER_PAGE = 10;
+const POSTS_PER_PAGE = 8;
 
 const Posts = () => {
   const [searchParams, setSearchParams] = useSearchParams();
