@@ -2,11 +2,11 @@ import {useState} from "react";
 import {Link} from "react-router-dom";
 import Button from "../../form/Button/Button";
 import Input from "../../form/Input/Input";
-import NavFooter from "../NavFooter/NavFooter";
 import Logo from "../Logo/Logo";
+import NavFooter from "../NavFooter/NavFooter";
 import styles from "./Footer.module.scss";
 
-const Footer = () => {
+const Footer = ({className}) => {
 
   const [email, setEmail] = useState("");
 
@@ -16,7 +16,7 @@ const Footer = () => {
   };
 
   return (
-    <footer className={styles.mainFooter}>
+    <footer className={`${className} ${styles.mainFooter}`}>
       <main>
         <div className={styles.leftSide}>
           <div className={styles.logo}>

@@ -3,7 +3,7 @@ import Logo from "../Logo/Logo";
 import NavHeader from "../NavHeader/NavHeader";
 import styles from "./Header.module.scss";
 
-const Header = () => {
+const Header = ({className}) => {
 
   const onLogIn = () => {
     alert("Log in");
@@ -14,7 +14,7 @@ const Header = () => {
   };
 
   return (
-    <header className={styles.main_header}>
+    <header className={`${className} ${styles.main_header}`}>
       <div className={styles.leftSide}>
         <div className={styles.logo}>
           <Logo className={styles.logoIcon}/>
