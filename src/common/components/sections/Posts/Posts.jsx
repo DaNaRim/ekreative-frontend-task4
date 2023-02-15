@@ -1,15 +1,15 @@
 import {library} from "@fortawesome/fontawesome-svg-core";
-import {faAngleDown, faAngleLeft, faAngleRight, faMagnifyingGlass, faXmark} from "@fortawesome/free-solid-svg-icons";
+import {faAngleDown, faAngleLeft, faAngleRight} from "@fortawesome/free-solid-svg-icons";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {useEffect, useState} from "react";
 import {useSearchParams} from "react-router-dom";
 import postsData from "../../../../data/posts.json";
 import Button from "../../form/Button/Button";
-import Input from "../../form/Input/Input";
+import InputSearch from "../../form/InputSearch/InputSearch";
 import PostPreview from "../../other/PostPreview/PostPreview";
 import styles from "./Posts.module.scss";
 
-library.add(faMagnifyingGlass, faAngleDown, faAngleRight, faAngleLeft, faXmark);
+library.add(faAngleDown, faAngleRight, faAngleLeft);
 
 const POSTS_PER_PAGE = 8;
 
@@ -52,10 +52,6 @@ const Posts = () => {
     setCurSearch(value);
     searchParams.set("search", value);
     setSearchParams(searchParams);
-  };
-
-  const clearSearch = () => {
-    setCurSearch("");
   };
 
   const handleOrder = (value) => {
@@ -125,15 +121,7 @@ const Posts = () => {
   return (
     <section className={styles.posts}>
       <header>
-        <div className={styles.searchBar}>
-          <Input type="search" placeholder="Search" value={curSearch} setValue={handleSearch}/>
-          <FontAwesomeIcon className={styles.glass} icon="fa-solid fa-magnifying-glass"/>
-          <FontAwesomeIcon className={styles.xMark}
-                           icon="fa-solid fa-xmark"
-                           style={curSearch ? {display: "block"} : {}}
-                           onClick={clearSearch}
-          />
-        </div>
+        <InputSearch placeholder="Search" value={curSearch} setValue={handleSearch}/>
         <div className={styles.order}>
           <select name="order" value={order} onChange={e => handleOrder(e.target.value)}>
             <option value="newestFirst">Newest first</option>
