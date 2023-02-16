@@ -1,15 +1,15 @@
 import {library} from "@fortawesome/fontawesome-svg-core";
-import {faAngleDown, faAngleLeft, faAngleRight} from "@fortawesome/free-solid-svg-icons";
+import {faAngleDown} from "@fortawesome/free-solid-svg-icons";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {useEffect, useState} from "react";
 import {useSearchParams} from "react-router-dom";
 import postsData from "../../../../data/posts.json";
-import Button from "../../form/Button/Button";
 import InputSearch from "../../form/InputSearch/InputSearch";
+import Pagination from "../../other/Pagination/Pagination";
 import PostPreview from "../../other/PostPreview/PostPreview";
 import styles from "./Posts.module.scss";
 
-library.add(faAngleDown, faAngleRight, faAngleLeft);
+library.add(faAngleDown);
 
 const POSTS_PER_PAGE = 8;
 
@@ -89,34 +89,6 @@ const Posts = () => {
     setLastPage(Math.ceil(newPostsToDisplay.length / POSTS_PER_PAGE));
   }, [curSearch, order, currentPage, offset, searchParams, setSearchParams]);
 
-  const getPagination = (currentPage, lastPage) => {
-    const pageNumbers = Array.from({length: lastPage}, (_, i) => i + 1);
-    return (
-      <ul>
-        {pageNumbers.map(number => {
-          if (number === 1
-            || number === currentPage - 2
-            || number === currentPage - 1
-            || number === currentPage
-            || number === currentPage + 1
-            || number === currentPage + 2
-            || number === lastPage) {
-            return (
-              <li key={number}
-                  className={number === currentPage ? styles.active : ""}
-                  onClick={() => handlePage(number)}>
-                {number}
-              </li>
-            );
-          } else if (number === currentPage - 3 || number === currentPage + 3) {
-            return <li key={number} className={styles.dots}>...</li>;
-          } else {
-            return null;
-          }
-        })}
-      </ul>
-    );
-  };
 
   return (
     <section className={styles.posts}>
@@ -137,24 +109,13 @@ const Posts = () => {
           <PostPreview key={post.id} {...post}/>
         ))}
       </main>
-      <footer>
-        <div className={styles.left}>
-          <Button disabled={currentPage === 1} onClick={handlePrevious}>Previous</Button>
-          <FontAwesomeIcon icon="fa-solid fa-angle-left"/>
-        </div>
-        <div className={styles.pagination}>
-          {getPagination(currentPage, lastPage)}
-        </div>
-        <div className={styles.right}>
-          <Button disabled={currentPage === lastPage} onClick={handleNext}>Next</Button>
-          <FontAwesomeIcon icon="fa-solid fa-angle-right"/>
-        </div>
-      </footer>
+      <Pagination currentPage={currentPage}
+                  lastPage={lastPage}
+                  handlePrevious={handlePrevious}
+                  handleNext={handleNext}
+                  handlePage={handlePage}/>
     </section>
   );
 };
 
 export default Posts;
-
-
-

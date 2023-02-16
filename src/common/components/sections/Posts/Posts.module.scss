@@ -10,8 +10,6 @@
     height: 2.75em;
     margin-bottom: 2em;
 
-
-
     .order {
       position: relative;
       height: 100%;
@@ -51,88 +49,6 @@
       width: 100%;
       margin: 2em 0;
       text-align: center;
-    }
-  }
-
-  > footer {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-top: 4em;
-    padding-top: 1.375em;
-    border-top: 1px solid $grey200;
-
-    button {
-      width: fit-content;
-      height: 2.25em;
-      padding: 0 1em;
-      color: $grey700;
-      border: 1px solid $grey300;
-      background-color: white;
-      box-shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
-
-      &:disabled {
-        cursor: not-allowed;
-        color: $grey500;
-        border-color: $grey200;
-        background-color: $grey50;
-        box-shadow: none;
-      }
-    }
-
-    .left {
-      position: relative;
-
-      button {
-        padding-left: 2em;
-      }
-
-      svg {
-        position: absolute;
-        top: 50%;
-        left: 1em;
-        transform: translateY(-50%);
-      }
-    }
-
-    .right {
-      position: relative;
-
-      button {
-        padding-right: 2em;
-      }
-
-      svg {
-        position: absolute;
-        top: 50%;
-        right: 1em;
-        transform: translateY(-50%);
-      }
-    }
-
-    .pagination ul {
-      display: flex;
-      padding: 0;
-      list-style: none;
-      gap: 0.5em;
-
-      li {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        width: 2.5em;
-        height: 2.5em;
-        color: $grey800;
-        background-color: $grey50;
-
-        &:not(.dots) {
-          cursor: pointer;
-        }
-
-        &.active {
-          font-weight: 600;
-        }
-      }
     }
   }
 }
