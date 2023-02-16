@@ -6,7 +6,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676473185159,
     "title": "UX review presentations",
     "desc": "How do you create compelling presentations that wow your colleagues and impress your managers?"
@@ -18,7 +22,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Phoenix Baker",
+    "minRead": 10,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676473135159,
     "title": "Migrating to Linear 101",
     "desc": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started."
@@ -30,7 +38,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 7,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273185159,
     "title": "Building your API Stack",
     "desc": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them."
@@ -42,7 +54,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 23,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676271285159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -54,7 +70,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 12,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1622273133159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -66,7 +86,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 7,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676173133159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -78,7 +102,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 5,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273133159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -90,7 +118,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 16762731235159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -102,7 +134,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273182359,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -114,7 +150,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273182359,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -126,7 +166,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1675273185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -138,7 +182,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 23,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273125159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -150,7 +198,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676272185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -162,7 +214,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273235159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -174,7 +230,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676287185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -186,7 +246,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -198,7 +262,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273235159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -210,7 +278,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273123159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -222,7 +294,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676223185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -234,7 +310,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676267185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -246,7 +326,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273235159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -258,7 +342,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676272385159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -270,7 +358,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Phoenix Baker",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676276585159,
     "title": "Migrating to Linear 101",
     "desc": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started."
@@ -282,7 +374,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676272685159,
     "title": "Building your API Stack",
     "desc": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them."
@@ -294,7 +390,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 16762723185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -306,7 +406,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676223185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -318,7 +422,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676223385159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -330,7 +438,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273125159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -342,7 +454,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676272385159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -354,7 +470,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273133159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -366,7 +486,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273135159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -378,7 +502,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273185129,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -390,7 +518,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273235159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -402,7 +534,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273385159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -414,7 +550,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273385159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -426,7 +566,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676272185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -438,7 +582,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676272185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -450,7 +598,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676223185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -462,7 +614,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1672273185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -474,7 +630,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273125159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -486,7 +646,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273195159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -498,7 +662,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676223185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -510,7 +678,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676277885159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -522,7 +694,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Phoenix Baker",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273285159,
     "title": "Migrating to Linear 101",
     "desc": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started."
@@ -534,7 +710,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273285159,
     "title": "Building your API Stack",
     "desc": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them."
@@ -546,7 +726,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676272385159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -558,7 +742,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676223185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -570,7 +758,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676272185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -582,7 +774,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676271285159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -594,7 +790,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273121529,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -606,7 +806,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676123185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -618,7 +822,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273175159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -630,7 +838,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676276785159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -642,7 +854,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676234585159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -654,7 +870,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676123185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -666,7 +886,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676543185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -678,7 +902,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676244185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -690,7 +918,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273145159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -702,7 +934,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676276585159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -714,7 +950,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273181159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -726,7 +966,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273183159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -738,7 +982,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273180159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -750,7 +998,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273285159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -762,7 +1014,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676073185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -774,7 +1030,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Phoenix Baker",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676073185159,
     "title": "Migrating to Linear 101",
     "desc": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started."
@@ -786,7 +1046,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676073185159,
     "title": "Building your API Stack",
     "desc": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them."
@@ -798,7 +1062,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676073185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -810,7 +1078,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1672273185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -822,7 +1094,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676223185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -834,7 +1110,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273222222,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -846,7 +1126,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676255185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -858,7 +1142,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273155159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -870,7 +1158,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273135159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -882,7 +1174,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273085159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -894,7 +1190,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676277185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -906,7 +1206,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676213185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -918,7 +1222,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676233185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -930,7 +1238,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676271185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -942,7 +1254,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273285159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -954,7 +1270,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676272185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -966,7 +1286,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676173185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -978,7 +1302,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273115159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -990,7 +1318,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676273180159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
@@ -1002,7 +1334,11 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1676272185159,
     "title": "PM mental models",
     "desc": "Mental models are simple expressions of complex processes or relationships."
@@ -1014,7 +1350,11 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "author": "Olivia Rhye",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
+      "name": "Olivia Rhye"
+    },
     "date": 1622272185159,
     "title": "Bill Walsh leadership lessons",
     "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"

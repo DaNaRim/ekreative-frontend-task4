@@ -7,7 +7,7 @@ const PostPreview = (post) => (
       <img src={post.img.src} alt={post.img.alt}/>
       <div className={styles.img_bottom}>
         <div className={styles.img_bottom_left}>
-          <p className={styles.author}>{post.author}</p>
+          <p className={styles.author}>{post.author.name}</p>
           <p className={styles.date}>{formatDate(post.date)}</p>
         </div>
         <div className={styles.img_bottom_right}>
@@ -26,7 +26,7 @@ const PostPreview = (post) => (
 
 export default PostPreview;
 
-function formatDate(millis) {
+export function formatDate(millis) {
   const months = [
     "Jan",
     "Feb",

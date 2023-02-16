@@ -2,10 +2,10 @@
 @import "src/assets/styles/style-constants";
 
 .categoryPage {
-  padding: 0 $sectionPaddingX;
+  padding: 0 $sectionPaddingX 4em;
 
   header {
-    padding: 6em;
+    padding: 6em 0;
 
     .preHeading {
       font-weight: 600;
@@ -30,5 +30,47 @@
       color: $grey600;
 
     }
+  }
+
+  > main {
+    display: flex;
+
+    aside {
+      width: 25%;
+
+      .searchBar {
+        height: 2.75em;
+      }
+
+      > p {
+        font-size: 0.875rem;
+        font-weight: 600;
+        line-height: 1.25rem;
+        margin-top: 2em;
+        color: $primary700;
+      }
+
+      ul {
+        margin-top: 1.25em;
+        padding-left: 0.875em;
+        list-style: none;
+
+        li {
+          display: flex;
+          align-items: center;
+          width: 100%;
+          height: 2.75em;
+        }
+      }
+    }
+
+    .posts {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin-left: 4em;
+      gap: 2em;
+    }
+
   }
 }

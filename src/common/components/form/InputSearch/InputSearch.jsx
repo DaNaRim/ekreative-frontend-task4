@@ -6,8 +6,8 @@ import styles from "./InputSearch.module.scss";
 
 library.add(faMagnifyingGlass, faXmark);
 
-const InputSearch = ({placeholder, value, setValue}) => (
-  <div className={styles.searchBar}>
+const InputSearch = ({className, placeholder, value, setValue}) => (
+  <div className={`${styles.searchBar} ${className || ""}`}>
     <Input type="search" placeholder={placeholder} value={value} setValue={setValue}/>
     <FontAwesomeIcon className={styles.glass} icon="fa-solid fa-magnifying-glass"/>
     <FontAwesomeIcon className={styles.xMark}
