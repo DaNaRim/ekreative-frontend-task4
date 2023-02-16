@@ -12,8 +12,17 @@ library.add(faAngleDown);
 
 const POSTS_PER_PAGE = 8;
 
-const CategoryPage = () => {
+const categories = [
+  "View all",
+  "Design",
+  "Product",
+  "Software Engineering",
+  "Customer Success",
+  "Leadership",
+  "Management",
+];
 
+const CategoryPage = () => {
   const [searchParams, setSearchParams] = useSearchParams();
 
   const [currentPage, setCurrentPage] = useState(Number(searchParams.get("page") || 1));
@@ -23,7 +32,8 @@ const CategoryPage = () => {
 
   const [postsToDisplay, setPostsToDisplay] = useState(postsData.slice(offset, offset + POSTS_PER_PAGE));
 
-  const [curSearch, setCurSearch] = useState(searchParams.get("search") || "");
+  const [search, setSearch] = useState(searchParams.get("search") || "");
+  const [category, setCategory] = useState(searchParams.get("category") || categories[0]);
 
   const handlePrevious = () => {
     if (currentPage > 1) {
@@ -47,14 +57,27 @@ const CategoryPage = () => {
     setSearchParams(searchParams);
   };
 
+  const handleSearch = (value) => {
+    setSearch(value);
+    searchParams.set("search", value);
+    setSearchParams(searchParams);
+  };
+
+  const handleCategory = (value) => {
+    setCategory(value);
+    searchParams.set("category", value);
+    setSearchParams(searchParams);
+  };
+
   useEffect(() => {
-    if (!curSearch) {
+    if (!search) {
       searchParams.delete("search");
       setSearchParams(searchParams);
     }
 
     const newPostsToDisplay = postsData
-      .filter(post => !curSearch || post.title.toLowerCase().includes(curSearch.toLowerCase()));
+      .filter(post => !search || post.title.toLowerCase().includes(search.toLowerCase()))
+      .filter(post => category === categories[0] || post.category === category.toLowerCase());
 
     if (newPostsToDisplay.slice(offset, offset + POSTS_PER_PAGE).length === 0) {
       setCurrentPage(1);
@@ -64,7 +87,7 @@ const CategoryPage = () => {
 
     setPostsToDisplay(newPostsToDisplay.slice(offset, offset + POSTS_PER_PAGE));
     setLastPage(Math.ceil(newPostsToDisplay.length / POSTS_PER_PAGE));
-  }, [curSearch, currentPage, offset, searchParams, setSearchParams]);
+  }, [search, currentPage, offset, searchParams, setSearchParams, category]);
 
   return (
     <main className={styles.categoryPage}>
@@ -75,19 +98,18 @@ const CategoryPage = () => {
       </header>
       <main>
         <aside>
-          <InputSearch className={styles.searchBar} placeholder="Search" value={curSearch} setValue={setCurSearch}/>
+          <InputSearch className={styles.searchBar} placeholder="Search" value={search} setValue={handleSearch}/>
           <p>Blog categories</p>
           <ul>
-            <li>View all</li>
-            <li>Design</li>
-            <li>Product</li>
-            <li>Software Engineering</li>
-            <li>Customer Success</li>
-            <li>Leadership</li>
-            <li>Management</li>
+            {categories.map((c) => (
+              <li key={c} className={c === category ? styles.active : ""} onClick={() => handleCategory(c)}>
+                {c}
+              </li>
+            ))}
           </ul>
         </aside>
         <section className={styles.posts}>
+          {postsToDisplay.length === 0 && <div className={styles.noPosts}>No posts found</div>}
           {postsToDisplay.map((post) => (
             <CategoryPostPreview key={post.id} {...post}/>
           ))}
