@@ -16,7 +16,7 @@ const Pagination = ({currentPage, lastPage, handlePrevious, handleNext, handlePa
       {getPagination(currentPage, lastPage, handlePage)}
     </div>
     <div className={styles.right}>
-      <Button disabled={currentPage === lastPage} onClick={handleNext}>Next</Button>
+      <Button disabled={currentPage === lastPage || lastPage === 0} onClick={handleNext}>Next</Button>
       <FontAwesomeIcon icon="fa-solid fa-angle-right"/>
     </div>
   </div>
