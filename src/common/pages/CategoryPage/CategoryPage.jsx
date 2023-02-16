@@ -110,8 +110,8 @@ const CategoryPage = () => {
         </aside>
         <section className={styles.posts}>
           {postsToDisplay.length === 0 && <div className={styles.noPosts}>No posts found</div>}
-          {postsToDisplay.map((post) => (
-            <CategoryPostPreview key={post.id} {...post}/>
+          {postsToDisplay.map((post, index) => (
+            <CategoryPostPreview key={post.id} {...post} isMainPost={index === 0}/>
           ))}
         </section>
       </main>

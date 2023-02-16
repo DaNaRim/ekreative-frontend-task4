@@ -7,8 +7,8 @@ import styles from "./CategoryPostPreview.module.scss";
 
 library.add(faArrowUp);
 
-const CategoryPostPreview = ({className, id, img, category, minRead, author, date, title, desc}) => (
-  <article className={`${styles.categoryPostPreview} ${className || ""}`}>
+const CategoryPostPreview = ({className, isMainPost, id, img, category, minRead, author, date, title, desc}) => (
+  <article className={`${styles.categoryPostPreview} ${isMainPost && styles.mainPost }${className || ""}`}>
     <img src={img.src} alt={img.alt}/>
     <div className={styles.textWrapper}>
       <div className={styles.categoryWrapper}>

@@ -91,4 +91,46 @@ $width: 28.5em;
       }
     }
   }
+
+  &.mainPost {
+    display: flex;
+
+    img {
+      width: calc($width * 4 / 3);
+    }
+
+    .textWrapper {
+      width: calc($width * 3 / 5);
+      margin-left: 2em;
+
+      .categoryWrapper {
+        margin-top: 0;
+      }
+
+      .titleWrapper svg {
+        display: none;
+      }
+    }
+
+    @media (max-width: 90em) {
+      flex-direction: column;
+
+      img {
+        width: $width;
+      }
+
+      .textWrapper {
+        width: $width;
+        margin-left: 0;
+
+        .categoryWrapper {
+          margin-top: 2em;
+        }
+
+        .titleWrapper svg {
+          display: block;
+        }
+      }
+    }
+  }
 }
