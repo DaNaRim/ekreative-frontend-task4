@@ -1,37 +1,37 @@
 import {useEffect, useState} from "react";
 import postsData from "../../../../data/posts.json";
-import styles from "./SimilarPosts.module.scss";
 import Pagination from "../../other/Pagination/Pagination";
 import SmallPost from "../../other/SmallPost/SmallPost";
+import styles from "./SimilarPosts.module.scss";
 
-const SIMILAR_POSTS_PER_PAGE = 6;
+const POSTS_PER_PAGE = 6;
 const SimilarPosts = ({mainPost}) => {
 
-  const [similarPostsPage, setSimilarPostsPage] = useState(1);
-  const similarPostsOffset = (similarPostsPage - 1) * SIMILAR_POSTS_PER_PAGE;
-  const similarPostsLastPage = Math.ceil(postsData.length / SIMILAR_POSTS_PER_PAGE);
+  const [page, setPage] = useState(1);
+  const offset = (page - 1) * POSTS_PER_PAGE;
+  const lastPage = Math.ceil(postsData.length / POSTS_PER_PAGE);
 
-  const [similarPostsSortedByTags, setSimilarPostsSortedByTags] = useState(postsData);
+  const [postsSortedByTags, setPostsSortedByTags] = useState(postsData.filter(post => post.id !== mainPost.id));
 
-  const [similarPostsToDisplay, setSimilarPostsToDisplay] = useState(
-    similarPostsSortedByTags.slice(similarPostsOffset, similarPostsOffset + SIMILAR_POSTS_PER_PAGE),
+  const [postsToDisplay, setPostsToDisplay] = useState(
+    postsSortedByTags.slice(offset, offset + POSTS_PER_PAGE),
   );
 
   const handleSimilarPostsPrevious = () => {
-    if (similarPostsPage > 1) {
-      setSimilarPostsPage(similarPostsPage - 1);
+    if (page > 1) {
+      setPage(page - 1);
     }
   };
 
   const handleSimilarPostsNext = () => {
-    if (similarPostsPage < similarPostsLastPage) {
-      setSimilarPostsPage(similarPostsPage + 1);
+    if (page < lastPage) {
+      setPage(page + 1);
     }
   };
 
   //sort by tags from mainPost tags. The more tags match, the higher the post will. Sorting only once on mount
   useEffect(() => {
-    setSimilarPostsSortedByTags(
+    setPostsSortedByTags(
       postsData.filter(post => post.id !== mainPost.id)
                .sort((a, b) => {
                  const aTags = a.tags.map(tag => tag.toLowerCase());
@@ -45,21 +45,21 @@ const SimilarPosts = ({mainPost}) => {
   }, [mainPost.id, mainPost.tags]);
 
   useEffect(() => {
-    setSimilarPostsToDisplay(
-      similarPostsSortedByTags.slice(similarPostsOffset, similarPostsOffset + SIMILAR_POSTS_PER_PAGE),
+    setPostsToDisplay(
+      postsSortedByTags.slice(offset, offset + POSTS_PER_PAGE),
     );
-  }, [mainPost.id, mainPost.tags, similarPostsOffset, similarPostsPage, similarPostsSortedByTags]);
+  }, [mainPost.id, mainPost.tags, offset, page, postsSortedByTags]);
 
   return (
     <section className={styles.similarPosts}>
       <div className={styles.posts}>
-        {similarPostsToDisplay.map(post => <SmallPost key={post.id} {...post}/>)}
+        {postsToDisplay.map(post => <SmallPost key={post.id} {...post}/>)}
       </div>
-      <Pagination currentPage={similarPostsPage}
-                  lastPage={similarPostsLastPage}
+      <Pagination currentPage={page}
+                  lastPage={lastPage}
                   handleNext={handleSimilarPostsNext}
                   handlePrevious={handleSimilarPostsPrevious}
-                  handlePage={setSimilarPostsPage}
+                  handlePage={setPage}
       />
     </section>
   );
