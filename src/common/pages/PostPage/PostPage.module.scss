@@ -1,5 +1,8 @@
 @import "src/assets/styles/style-constants";
 
 .postPage {
-  padding: 0 $sectionPaddingX 4em;
+  .mainPost {
+    box-sizing: border-box;
+    padding: 0 $sectionPaddingX;
+  }
 }

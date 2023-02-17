@@ -5,6 +5,7 @@ import SmallPost from "../../other/SmallPost/SmallPost";
 import styles from "./SimilarPosts.module.scss";
 
 const POSTS_PER_PAGE = 6;
+
 const SimilarPosts = ({mainPost}) => {
 
   const [page, setPage] = useState(1);
@@ -31,6 +32,7 @@ const SimilarPosts = ({mainPost}) => {
 
   //sort by tags from mainPost tags. The more tags match, the higher the post will. Sorting only once on mount
   useEffect(() => {
+    console.log("called");
     setPostsSortedByTags(
       postsData.filter(post => post.id !== mainPost.id)
                .sort((a, b) => {

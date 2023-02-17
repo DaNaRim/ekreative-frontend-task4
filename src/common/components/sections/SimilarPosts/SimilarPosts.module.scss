@@ -1,4 +1,7 @@
+@import "src/assets/styles/style-constants";
+
 .similarPosts {
+  padding: 0 $sectionPaddingX 6em;
 
   .posts {
     display: flex;

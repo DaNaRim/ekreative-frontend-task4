@@ -1,0 +1,62 @@
+@import "src/assets/styles/style-constants";
+@import "src/assets/styles/color-palette";
+
+.latestPosts {
+  padding: 0 $sectionPaddingX 6em;
+  background-color: $grey50;
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    padding: 6em 0 4em;
+
+    .leftSide {
+      h2 {
+        font-size: 2.25em;
+        font-weight: 600;
+        letter-spacing: -0.02em;
+        color: $grey900;
+      }
+
+      p {
+        font-size: 1.25em;
+        font-weight: 400;
+        margin-top: 1.25em;
+        color: $grey600;
+      }
+    }
+  }
+
+  main {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 2em;
+  }
+
+  footer {
+    display: flex;
+    margin-top: 2em;
+
+    :not(:first-child) {
+      margin-left: 2em;
+    }
+
+    > div {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 3.5em;
+      border: 1px solid $grey200;
+      border-radius: 1.75em;
+      background: rgba(255, 255, 255, 0.9);
+      aspect-ratio: 1 / 1;
+      backdrop-filter: blur(4px);
+      cursor: pointer;
+
+      &.disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+    }
+  }
+}
