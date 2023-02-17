@@ -1,0 +1,11 @@
+.similarPosts {
+
+  .posts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 3em;
+    column-gap: 2em;
+    row-gap: 3em;
+  }
+}
