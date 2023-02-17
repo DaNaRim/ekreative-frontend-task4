@@ -1,9 +1,11 @@
+import React from "react";
 import {Route, Routes} from "react-router";
 import PageWrapper from "../common/components/base/PageWrapper/PageWrapper";
-import CategoryPage from "../common/pages/CategoryPage/CategoryPage";
-import PostPage from "../common/pages/PostPage/PostPage";
-import HomePage from "../common/pages/HomePage/HomePage";
 import "./App.scss";
+
+const HomePage = React.lazy(() => import("../common/pages/HomePage/HomePage"));
+const CategoryPage = React.lazy(() => import("../common/pages/CategoryPage/CategoryPage"));
+const PostPage = React.lazy(() => import("../common/pages/PostPage/PostPage"));
 
 const App = () => (
   <Routes>
