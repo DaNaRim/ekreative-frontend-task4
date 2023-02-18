@@ -10,7 +10,7 @@ import styles from "./CategoryPage.module.scss";
 
 library.add(faAngleDown);
 
-const POSTS_PER_PAGE = 8;
+const POSTS_PER_PAGE = 9;
 
 const categories = [
   "View all",
