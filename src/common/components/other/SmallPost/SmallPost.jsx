@@ -18,9 +18,10 @@ const categoryColorMap = {
 
 const tagsColorMap = {
   "Default": "#5942c6",
-  "Research": "#6941c6",
+  "Research": "#0c8370",
   "Presentation": "#026aa2",
   "Frameworks": "#c01048",
+  "Figma": "#027a48",
 };
 
 const SmallPost = ({className, isMainPost, img, category, tags, author, date, title, desc}) => (

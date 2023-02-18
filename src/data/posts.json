@@ -8,13 +8,13 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Olivia Rhyne"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "SaaS",
+      "Figma"
     ],
     "date": 1676473185159,
     "title": "UX review presentations",
@@ -26,16 +26,16 @@
       "src": "https://images.pexels.com/photos/3184589/pexels-photo-3184589.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "product",
     "minRead": 10,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Sam Smith"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Tools",
+      "Figma"
     ],
     "date": 1676473135159,
     "title": "Migrating to Linear 101",
@@ -47,15 +47,15 @@
       "src": "https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "customer success",
     "minRead": 7,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "John Week"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273185159,
@@ -68,20 +68,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "software engineering",
     "minRead": 23,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alan Wake"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "SaaS",
+      "Figma"
     ],
     "date": 1676271285159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "5",
@@ -89,16 +89,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "leadership",
     "minRead": 12,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Joel Menendes"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Figma"
     ],
     "date": 1622273133159,
     "title": "PM mental models",
@@ -110,20 +109,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "management",
     "minRead": 7,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Viktor Stalin"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "SaaS",
+      "Figma"
     ],
     "date": 1676173133159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "7",
@@ -134,12 +133,12 @@
     "category": "design",
     "minRead": 5,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Samuel Jhonson"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1676273133159,
@@ -153,19 +152,19 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "minRead": 8,
+    "minRead": 2,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Martisha Addams"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 16762731235159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "9",
@@ -173,16 +172,16 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "product",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kate Ramsay"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Tools",
+      "Figma"
     ],
     "date": 1676273182359,
     "title": "PM mental models",
@@ -194,20 +193,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
-    "minRead": 8,
+    "category": "customer success",
+    "minRead": 12,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Fill Robertson"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1676273182359,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "11",
@@ -215,15 +214,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "software engineering",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181424/pexels-photo-1181424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Susan Weekly"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1675273185159,
@@ -236,20 +235,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "leadership",
     "minRead": 23,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Piter Greal"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Tools",
+      "Figma"
     ],
     "date": 1676273125159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "13",
@@ -257,16 +256,16 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "management",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Steve Jobs"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Frameworks",
+      "Figma"
     ],
     "date": 1676272185159,
     "title": "PM mental models",
@@ -281,17 +280,17 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Samanda Coffe"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273235159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "15",
@@ -302,12 +301,12 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Addam Decker"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676287185159,
@@ -320,20 +319,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "product",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Samuel Addams"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "SaaS",
+      "Figma"
     ],
     "date": 1676273185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "17",
@@ -341,15 +340,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
-    "minRead": 8,
+    "category": "customer success",
+    "minRead": 15,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Mendes"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273235159,
@@ -362,20 +361,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "software engineering",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Pearl"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Figma",
       "Frameworks"
     ],
     "date": 1676273123159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "19",
@@ -383,15 +382,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "leadership",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Kavil"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676223185159,
@@ -404,20 +403,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "management",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Peterson"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676267185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "21",
@@ -428,12 +427,12 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Rock"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1676273235159,
@@ -447,19 +446,19 @@
       "alt": "UX review presentations"
     },
     "category": "design",
-    "minRead": 8,
+    "minRead": 10,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Potter"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Tools",
+      "Figma"
     ],
     "date": 1676272385159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "23",
@@ -467,15 +466,15 @@
       "src": "https://images.pexels.com/photos/3184589/pexels-photo-3184589.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "product",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Foxy"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676276585159,
@@ -488,16 +487,15 @@
       "src": "https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "customer success",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Peterson"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Figma"
     ],
     "date": 1676272685159,
     "title": "Building your API Stack",
@@ -509,20 +507,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "software engineering",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Pearl"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 16762723185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "26",
@@ -530,15 +528,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "leadership",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Pratt"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676223185159,
@@ -551,20 +549,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "management",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Paul Ramiles"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1676223385159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "28",
@@ -575,12 +573,12 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Santa"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273125159,
@@ -596,17 +594,17 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Peterson"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676272385159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "30",
@@ -614,16 +612,16 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
-    "minRead": 8,
+    "category": "product",
+    "minRead": 14,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Rock"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "SaaS",
+      "Figma"
     ],
     "date": 1676273133159,
     "title": "PM mental models",
@@ -635,20 +633,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "customer success",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Mendes"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273135159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "32",
@@ -656,15 +654,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "software engineering",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Peter Brown"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273185129,
@@ -677,20 +675,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
-    "minRead": 8,
+    "category": "leadership",
+    "minRead": 25,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Pearl"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1676273235159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "34",
@@ -698,16 +696,16 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "management",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Moonlight"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Frameworks",
+      "Figma"
     ],
     "date": 1676273385159,
     "title": "PM mental models",
@@ -722,17 +720,17 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Peterson"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273385159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "36",
@@ -743,13 +741,12 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Rock"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Figma"
     ],
     "date": 1676272185159,
     "title": "PM mental models",
@@ -761,20 +758,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
-    "minRead": 8,
+    "category": "product",
+    "minRead": 31,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Martines"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676272185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "38",
@@ -782,15 +779,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "customer success",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Kavil"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1676223185159,
@@ -803,20 +800,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "software engineering",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Rainbow"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Tools",
+      "Figma"
     ],
     "date": 1672273185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "40",
@@ -824,15 +821,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "leadership",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Mendes"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273125159,
@@ -845,20 +842,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "management",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Rock"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273195159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "42",
@@ -867,14 +864,14 @@
       "alt": "PM mental models"
     },
     "category": "design",
-    "minRead": 8,
+    "minRead": 30,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Pearl"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Figma",
       "Frameworks"
     ],
     "date": 1676223185159,
@@ -890,17 +887,17 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Foxy"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676277885159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "44",
@@ -908,15 +905,15 @@
       "src": "https://images.pexels.com/photos/3184589/pexels-photo-3184589.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "product",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Frank Silverhand"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1676273285159,
@@ -929,15 +926,15 @@
       "src": "https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "customer success",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Ramiles"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273285159,
@@ -950,20 +947,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "software engineering",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Pratt"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676272385159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "47",
@@ -971,15 +968,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "leadership",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Peterson"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676223185159,
@@ -992,20 +989,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
-    "minRead": 8,
+    "category": "management",
+    "minRead": 22,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Potter"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676272185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "49",
@@ -1016,13 +1013,13 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Pearl"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Tools",
+      "Figma"
     ],
     "date": 1676271285159,
     "title": "PM mental models",
@@ -1037,17 +1034,17 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Santa"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273121529,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "51",
@@ -1055,16 +1052,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "product",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Foxy"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Figma"
     ],
     "date": 1676123185159,
     "title": "PM mental models",
@@ -1076,20 +1072,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "customer success",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Rock"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273175159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "53",
@@ -1097,15 +1093,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "software engineering",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Brown"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1676276785159,
@@ -1118,20 +1114,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "leadership",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Mendes"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676234585159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "55",
@@ -1139,15 +1135,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "management",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Robbinson"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676123185159,
@@ -1163,17 +1159,17 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Peterson"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676543185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "57",
@@ -1184,13 +1180,13 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Martines"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Tools",
+      "Figma"
     ],
     "date": 1676244185159,
     "title": "PM mental models",
@@ -1202,20 +1198,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "product",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Rock"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273145159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "59",
@@ -1223,15 +1219,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "customer success",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Pearl"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676276585159,
@@ -1244,20 +1240,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "software engineering",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Kavil"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1676273181159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "61",
@@ -1265,15 +1261,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "leadership",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Paul Peterson"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273183159,
@@ -1286,20 +1282,19 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "management",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Ramiles"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Figma"
     ],
     "date": 1676273180159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "63",
@@ -1310,12 +1305,12 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Peter Moonlight"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273285159,
@@ -1331,17 +1326,17 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Foxy"
     },
     "tags": [
       "Research",
-      "Presentation",
-      "Frameworks"
+      "Tools",
+      "Figma"
     ],
     "date": 1676073185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "65",
@@ -1349,15 +1344,15 @@
       "src": "https://images.pexels.com/photos/3184589/pexels-photo-3184589.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "product",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Fish"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676073185159,
@@ -1370,15 +1365,15 @@
       "src": "https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "customer success",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bill Potter"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676073185159,
@@ -1391,20 +1386,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "software engineering",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Pearl"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1676073185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "68",
@@ -1412,15 +1407,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "leadership",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Rock"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1672273185159,
@@ -1433,20 +1428,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "management",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Mendes"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676223185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "70",
@@ -1457,12 +1452,12 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Frank Ramiles"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273222222,
@@ -1478,17 +1473,17 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Peterson"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1676255185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "72",
@@ -1496,15 +1491,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "product",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Brown"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273155159,
@@ -1517,20 +1512,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
-    "minRead": 8,
+    "category": "customer success",
+    "minRead": 51,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Santa"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Figma",
       "Frameworks"
     ],
     "date": 1676273135159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "74",
@@ -1538,15 +1533,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "software engineering",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Pearl"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273085159,
@@ -1559,20 +1554,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "leadership",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Mendes"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676277185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "76",
@@ -1580,15 +1575,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "management",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Peter Kavil"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1676213185159,
@@ -1604,17 +1599,17 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Rainbow"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676233185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "78",
@@ -1625,12 +1620,12 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Martines"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676271185159,
@@ -1643,20 +1638,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "product",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Silverhand"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273285159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "80",
@@ -1664,15 +1659,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "customer success",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Foxy"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676272185159,
@@ -1685,20 +1680,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "software engineering",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Gabe Rock"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676173185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "82",
@@ -1706,15 +1701,15 @@
       "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
       "alt": "PM mental models"
     },
-    "category": "design",
+    "category": "leadership",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Pratt"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676273115159,
@@ -1727,20 +1722,20 @@
       "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
       "alt": "UX review presentations"
     },
-    "category": "design",
+    "category": "management",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Potter"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1676273180159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   },
   {
     "id": "84",
@@ -1751,12 +1746,12 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Mendes"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
       "Frameworks"
     ],
     "date": 1676272185159,
@@ -1772,16 +1767,2382 @@
     "category": "design",
     "minRead": 8,
     "author": {
-      "img": "https://images.pexels.com/photos/804009/pexels-photo-804009.jpeg",
-      "name": "Olivia Rhye"
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bill Kavil"
     },
     "tags": [
       "Research",
-      "Presentation",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1519085903000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "86",
+    "img": {
+      "src": "https://images.pexels.com/photos/1181625/pexels-photo-1181625.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Rock"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676473185159,
+    "title": "UX review presentations",
+    "desc": "How do you create compelling presentations that wow your colleagues and impress your managers?"
+  },
+  {
+    "id": "87",
+    "img": {
+      "src": "https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "customer success",
+    "minRead": 7,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Brown"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676273185159,
+    "title": "Building your API Stack",
+    "desc": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them."
+  },
+  {
+    "id": "88",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "software engineering",
+    "minRead": 23,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Peterson"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1676271285159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "89",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "leadership",
+    "minRead": 7,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Ramiles"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676173133159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "90",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "management",
+    "minRead": 5,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Moonlight"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676273133159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "91",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Paul Mendes"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 16762731235159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "92",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Rainbow"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676273182359,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "93",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Frank Santa"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1676273182359,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "94",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "customer success",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Foxy"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Figma"
+    ],
+    "date": 1675273185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "95",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "software engineering",
+    "minRead": 23,
+    "author": {
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Rock"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676273125159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "96",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "leadership",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Peterson"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676272185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "97",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "management",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Pratt"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676273235159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "98",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "design",
+    "minRead": 11,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Peter Moonlight"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676287185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "99",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Martines"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1676273185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "100",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Brown"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676273235159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "101",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "customer success",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Foxy"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1676273123159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "102",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "software engineering",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bill Kavil"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676223185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "103",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "leadership",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Ramiles"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676267185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "104",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "management",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Pratt"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676273235159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "105",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Potter"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676272385159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "106",
+    "img": {
+      "src": "https://images.pexels.com/photos/3184589/pexels-photo-3184589.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Fish"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676276585159,
+    "title": "Migrating to Linear 101",
+    "desc": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started."
+  },
+  {
+    "id": "107",
+    "img": {
+      "src": "https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Gabe Silverhand"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1676272685159,
+    "title": "Building your API Stack",
+    "desc": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them."
+  },
+  {
+    "id": "108",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "customer success",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Santa"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Figma"
+    ],
+    "date": 16762723185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "109",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "software engineering",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Peter Pratt"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676223185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "110",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "leadership",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Moonlight"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676223385159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "111",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "management",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Ramiles"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676273125159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "112",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bill Brown"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1676272385159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "113",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "design",
+    "minRead": 44,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Peterson"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1676273133159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "114",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Rock"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676273135159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "115",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "customer success",
+    "minRead": 4,
+    "author": {
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Robbinson"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676273185129,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "116",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "software engineering",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Fish"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676273235159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "117",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "leadership",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Kavil"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676273385159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "118",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "management",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Pearl"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Figma"
+    ],
+    "date": 1676273385159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "119",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "design",
+    "minRead": 7,
+    "author": {
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Peterson"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676272185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "120",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Paul Pratt"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676272185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "121",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Potter"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676223185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "122",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "customer success",
+    "minRead": 22,
+    "author": {
+      "img": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Moonlight"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1672273185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "123",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "software engineering",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Jhonson"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1676273125159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "124",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "leadership",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Jhonson"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676273195159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "125",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "management",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bill Martines"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676223185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "126",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Mendes"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676277885159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "127",
+    "img": {
+      "src": "https://images.pexels.com/photos/3184589/pexels-photo-3184589.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Santa"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1676273285159,
+    "title": "Migrating to Linear 101",
+    "desc": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started."
+  },
+  {
+    "id": "128",
+    "img": {
+      "src": "https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Kavil"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1676273285159,
+    "title": "Building your API Stack",
+    "desc": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them."
+  },
+  {
+    "id": "129",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "customer success",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Rainbow"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676272385159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "130",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "software engineering",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Peter Peterson"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676223185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "131",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "leadership",
+    "minRead": 30,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Rock"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676276585159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "132",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "management",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Jhonson"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1676273181159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "133",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "design",
+    "minRead": 10,
+    "author": {
+      "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Foxy"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1676273183159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "134",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Pearl"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676273180159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "135",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Mendes"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676273285159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "136",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "customer success",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Pratt"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676073185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "137",
+    "img": {
+      "src": "https://images.pexels.com/photos/3184589/pexels-photo-3184589.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "software engineering",
+    "minRead": 14,
+    "author": {
+      "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Ramiles"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676073185159,
+    "title": "Migrating to Linear 101",
+    "desc": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get started."
+  },
+  {
+    "id": "138",
+    "img": {
+      "src": "https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "leadership",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Sarah Potter"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1676073185159,
+    "title": "Building your API Stack",
+    "desc": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and managing them."
+  },
+  {
+    "id": "139",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "management",
+    "minRead": 81,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Robbinson"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676073185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "140",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Moonlight"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1672273185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "141",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Paul Rock"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676223185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "142",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "product",
+    "minRead": 12,
+    "author": {
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Santa"
+    },
+    "tags": [
+      "Research",
+      "Frameworks"
+    ],
+    "date": 1676273222222,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "143",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "customer success",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Potter"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676255185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "144",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "software engineering",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Pearl"
+    },
+    "tags": [
+      "Research",
+      "Figma",
+      "Frameworks"
+    ],
+    "date": 1676273155159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "145",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "leadership",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Peter Peterson"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1676273135159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "146",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "management",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Brown"
+    },
+    "tags": [
+      "Research",
+      "Frameworks"
+    ],
+    "date": 1676273085159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "147",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Kavil"
+    },
+    "tags": [
+      "Research",
+      "Frameworks"
+    ],
+    "date": 1676277185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "148",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "design",
+    "minRead": 28,
+    "author": {
+      "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Martines"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1676213185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "149",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bill Mendes"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1676233185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "150",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "customer success",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Robbinson"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676271185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "151",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "software engineering",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Pratt"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1676273285159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "152",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "leadership",
+    "minRead": 3,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Ramiles"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676173185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "153",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "management",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Rainbow"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676273115159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "154",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Peterson"
+    },
+    "tags": [
+      "Research",
+      "Figma",
+      "Frameworks"
+    ],
+    "date": 1676273180159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "155",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Foxy"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676272185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "156",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Frank Santa"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1684369103000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "157",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "customer success",
+    "minRead": 1,
+    "author": {
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Mendes"
+    },
+    "tags": [
+      "Research",
+      "Figma",
+      "Frameworks"
+    ],
+    "date": 1676273155159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "158",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "software engineering",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Gabe Martines"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676273135159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "159",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "leadership",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Peterson"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676273085159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "160",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "management",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Moonlight"
+    },
+    "tags": [
+      "Research",
+      "Figma",
+      "Frameworks"
+    ],
+    "date": 1676277185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "161",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Jhonson"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676213185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "162",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 1,
+    "author": {
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Rock"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676233185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "163",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Paul Ramiles"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1676271185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "164",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "customer success",
+    "minRead": 3,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Brown"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676273285159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "165",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "software engineering",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Robbinson"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1676272185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "166",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "leadership",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Rock"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676173185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "167",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "management",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Foxy"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1676273115159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "168",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 9,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Kavil"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1676273180159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "169",
+    "img": {
+      "src": "https://images.pexels.com/photos/7238759/pexels-photo-7238759.jpeg",
+      "alt": "PM mental models"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Peter Martines"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1676272185159,
+    "title": "PM mental models",
+    "desc": "Mental models are simple expressions of complex processes or relationships."
+  },
+  {
+    "id": "170",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Pratt"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1673396303000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "171",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "customer success",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Mendes"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1622272185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "172",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "software engineering",
+    "minRead": 5,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Ramiles"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1622272185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "173",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "leadership",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Pearl"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1673396303000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "174",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "management",
+    "minRead": 7,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bill Peterson"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1519085903000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "175",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Sarah Rock"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1684369103000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "176",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Foxy"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1673396303000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "177",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Potter"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
       "Frameworks"
     ],
     "date": 1622272185159,
     "title": "Bill Walsh leadership lessons",
-    "desc": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?"
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "178",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "customer success",
+    "minRead": 33,
+    "author": {
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Frank Fish"
+    },
+    "tags": [
+      "Research",
+      "Figma",
+      "Frameworks"
+    ],
+    "date": 1684369103000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "179",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "software engineering",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Robbinson"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1519085903000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "180",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "leadership",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Kavil"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1673396303000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "181",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "management",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Bill Jhonson"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1622272185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "182",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Foxy"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1684369103000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "183",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Brown"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1673396303000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "184",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "product",
+    "minRead": 35,
+    "author": {
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Santa"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1622272185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "185",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "customer success",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Peterson"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1622272185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "186",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "software engineering",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Potter"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1673396303000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "187",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "leadership",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Pearl"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1622272185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "188",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "management",
+    "minRead": 3,
+    "author": {
+      "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Jhonson"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Figma"
+    ],
+    "date": 1673396303000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "189",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Kevin Peterson"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1519085903000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "190",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 6,
+    "author": {
+      "img": "https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Foxy"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1684369103000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "191",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "product",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Paul Moonlight"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1673396303000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "192",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "customer success",
+    "minRead": 63,
+    "author": {
+      "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Karen Pratt"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1622272185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "193",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "software engineering",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Mendes"
+    },
+    "tags": [
+      "Research",
+      "Figma",
+      "Frameworks"
+    ],
+    "date": 1684369103000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "194",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "leadership",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alex Kavil"
+    },
+    "tags": [
+      "Research",
+      "Frameworks",
+      "Figma"
+    ],
+    "date": 1673396303000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "195",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "management",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Mark Ramiles"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1519085903000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "196",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Peterson"
+    },
+    "tags": [
+      "Research",
+      "Tools",
+      "Frameworks"
+    ],
+    "date": 1622272185159,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "197",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "design",
+    "minRead": 2,
+    "author": {
+      "img": "https://images.pexels.com/photos/1181391/pexels-photo-1181391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Rebecca Jhonson"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1673396303000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "198",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "product",
+    "minRead": 10,
+    "author": {
+      "img": "https://images.pexels.com/photos/1270076/pexels-photo-1270076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Peter Foxy"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1684369103000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "199",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "customer success",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Alice Rock"
+    },
+    "tags": [
+      "Research",
+      "Figma"
+    ],
+    "date": 1673396303000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
+  },
+  {
+    "id": "200",
+    "img": {
+      "src": "https://images.pexels.com/photos/8370970/pexels-photo-8370970.jpeg",
+      "alt": "UX review presentations"
+    },
+    "category": "software engineering",
+    "minRead": 8,
+    "author": {
+      "img": "https://images.pexels.com/photos/8101971/pexels-photo-8101971.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Robert Pearl"
+    },
+    "tags": [
+      "Research",
+      "SaaS",
+      "Frameworks"
+    ],
+    "date": 1519085903000,
+    "title": "Bill Walsh leadership lessons",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend donec pretium vulputate sapien."
   }
 ]
