@@ -81,3 +81,23 @@
     }
   }
 }
+
+/*
+    Mobile
+ */
+
+.paginationWrapperMobile {
+
+  :is(.left, .right) {
+    button {
+      width: 2.25em;
+      height: 2.25em;
+      padding: 0;
+    }
+
+    svg {
+      left: 50%;
+      transform: translateX(-50%) translateY(-60%);
+    }
+  }
+}
