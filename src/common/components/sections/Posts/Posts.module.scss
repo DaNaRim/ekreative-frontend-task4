@@ -7,8 +7,13 @@
   > header {
     display: flex;
     justify-content: space-between;
-    height: 2.75em;
+    height: 3em;
     margin-bottom: 2em;
+
+    .order, .searchBar {
+      height: 100%;
+      width: 17.5em;
+    }
   }
 
   > main {
@@ -43,6 +48,7 @@
 
     .order {
       margin-top: 1em;
+      width: 100%;
 
       select {
         width: 100%;

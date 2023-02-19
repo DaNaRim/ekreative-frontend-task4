@@ -1,6 +1,5 @@
 import {library} from "@fortawesome/fontawesome-svg-core";
 import {faAngleDown} from "@fortawesome/free-solid-svg-icons";
-import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {useEffect, useState} from "react";
 import {useSearchParams} from "react-router-dom";
 import postsData from "../../../../data/posts.json";
@@ -97,8 +96,9 @@ const Posts = () => {
       <Default>
         <section className={styles.posts}>
           <header>
-            <InputSearch placeholder="Search" value={curSearch} setValue={handleSearch}/>
-            <Select name="order"
+            <InputSearch className={styles.searchBar} placeholder="Search" value={curSearch} setValue={handleSearch}/>
+            <Select className={styles.order}
+                    name="order"
                     value={order}
                     onChange={handleOrder}
                     options={["Newest first", "Oldest first", "Alphabetical"]}/>
@@ -120,14 +120,11 @@ const Posts = () => {
         <section className={`${styles.posts} ${styles.postsMobile}`}>
           <header>
             <InputSearch placeholder="Search" value={curSearch} setValue={handleSearch}/>
-            <div className={styles.order}>
-              <select name="order" value={order} onChange={e => handleOrder(e.target.value)}>
-                <option value="newestFirst">Newest first</option>
-                <option value="oldestFirst">Oldest first</option>
-                <option value="alphabetical">Alphabetical</option>
-              </select>
-              <FontAwesomeIcon icon="fa-solid fa-angle-down"/>
-            </div>
+            <Select className={styles.order}
+                    name="order"
+                    value={order}
+                    onChange={handleOrder}
+                    options={["Newest first", "Oldest first", "Alphabetical"]}/>
           </header>
           <main>
             {postsToDisplay.length === 0 && <div className={styles.noPosts}>No posts found</div>}

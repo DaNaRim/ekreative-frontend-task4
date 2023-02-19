@@ -5,10 +5,11 @@ $inputPaddingX: 0.875em;
 
 p.inputWrapper {
   position: relative;
+  height: 100%;
 
   input {
     box-sizing: border-box;
-    width: 22.5em;
+    width: 100%;
     height: 3em;
     padding: 0.75em $inputPaddingX;
     color: $grey500;
