@@ -11,10 +11,9 @@
   main {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 4em;
 
     .leftSide {
-      margin-bottom: 4em;
-
       .logo {
         @include Header.logo;
 
@@ -88,6 +87,47 @@
 
         &:hover {
           text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+/*
+  Mobile
+ */
+
+.mainFooterMobile {
+  padding: 3em $sectionPaddingXMobile;
+
+  main {
+    flex-direction: column;
+    margin-bottom: 3em;
+
+    .leftSide {
+
+      nav ul {
+        align-content: stretch;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 2em;
+      }
+    }
+
+    .rightSide {
+      margin-top: 3em;
+
+      > p {
+        font-weight: 600;
+      }
+
+      .emailWrapper {
+        flex-direction: column;
+        height: fit-content;
+
+
+        > *, input {
+          width: 100%;
         }
       }
     }

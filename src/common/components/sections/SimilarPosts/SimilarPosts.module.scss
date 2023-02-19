@@ -10,5 +10,25 @@
     margin-top: 3em;
     column-gap: 2em;
     row-gap: 3em;
+
+    .post {
+      width: 24em;
+    }
+  }
+}
+
+.similarPostsMobile {
+  padding: 0 $sectionPaddingXMobile 4em;
+
+  .posts {
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2em;
+    column-gap: 0;
+    row-gap: 2em;
+
+    .post {
+      width: 100%;
+    }
   }
 }

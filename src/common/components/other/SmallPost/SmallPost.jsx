@@ -26,7 +26,7 @@ const tagsColorMap = {
 
 const SmallPost = ({className, isMainPost, img, category, tags, author, date, title, desc}) => (
 
-  <article className={`${styles.smallPost} ${isMainPost && styles.mainPost} ${className || ""}`}>
+  <article className={`${styles.smallPost} ${isMainPost ? styles.mainPost : ""} ${className || ""}`}>
     <img src={img.src} alt={img.alt}/>
     <div className={styles.authorWrapper}>
       {author.name} • {formatDate(date)}

@@ -1,5 +1,6 @@
 import {useEffect, useState} from "react";
 import postsData from "../../../../data/posts.json";
+import {Default, Mobile} from "../../../utils/ResponsiveWrappers";
 import Pagination from "../../other/Pagination/Pagination";
 import SmallPost from "../../other/SmallPost/SmallPost";
 import styles from "./SimilarPosts.module.scss";
@@ -53,17 +54,34 @@ const SimilarPosts = ({mainPost}) => {
   }, [mainPost.id, mainPost.tags, offset, page, postsSortedByTags]);
 
   return (
-    <section className={styles.similarPosts}>
-      <div className={styles.posts}>
-        {postsToDisplay.map(post => <SmallPost key={post.id} {...post}/>)}
-      </div>
-      <Pagination currentPage={page}
-                  lastPage={lastPage}
-                  handleNext={handleSimilarPostsNext}
-                  handlePrevious={handleSimilarPostsPrevious}
-                  handlePage={setPage}
-      />
-    </section>
+    <>
+    <Default>
+      <section className={styles.similarPosts}>
+        <div className={styles.posts}>
+          {postsToDisplay.map(post => <SmallPost className={styles.post} key={post.id} {...post}/>)}
+        </div>
+        <Pagination currentPage={page}
+                    lastPage={lastPage}
+                    handleNext={handleSimilarPostsNext}
+                    handlePrevious={handleSimilarPostsPrevious}
+                    handlePage={setPage}
+        />
+      </section>
+    </Default>
+      <Mobile>
+        <section className={`${styles.similarPosts} ${styles.similarPostsMobile}`}>
+          <div className={styles.posts}>
+            {postsToDisplay.map(post => <SmallPost className={styles.post} key={post.id} {...post}/>)}
+          </div>
+          <Pagination currentPage={page}
+                      lastPage={lastPage}
+                      handleNext={handleSimilarPostsNext}
+                      handlePrevious={handleSimilarPostsPrevious}
+                      handlePage={setPage}
+          />
+        </section>
+      </Mobile>
+    </>
   );
 };
 

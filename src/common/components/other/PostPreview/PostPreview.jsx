@@ -1,27 +1,54 @@
 import {Link} from "react-router-dom";
+import {Default, Mobile} from "../../../utils/ResponsiveWrappers";
 import styles from "./PostPreview.module.scss";
 
-const PostPreview = (post) => (
-  <article className={styles.postPreview}>
-    <header>
-      <img src={post.img.src} alt={post.img.alt}/>
-      <div className={styles.img_bottom}>
-        <div className={styles.img_bottom_left}>
-          <p className={styles.author}>{post.author.name}</p>
-          <p className={styles.date}>{formatDate(post.date)}</p>
-        </div>
-        <div className={styles.img_bottom_right}>
-          <p>{post.category}</p>
-        </div>
-      </div>
-    </header>
-    <main>
-      <h3>{post.title}</h3>
-      <p>{post.desc}</p>
+const PostPreview = ({className, id, img, author, date, category, title, desc}) => (
+  <>
+    <Default>
+      <article className={`${styles.postPreview} ${className ? className : ""}`}>
+        <header>
+          <img src={img.src} alt={img.alt}/>
+          <div className={styles.img_bottom}>
+            <div className={styles.img_bottom_left}>
+              <p className={styles.author}>{author.name}</p>
+              <p className={styles.date}>{formatDate(date)}</p>
+            </div>
+            <div className={styles.img_bottom_right}>
+              <p>{category}</p>
+            </div>
+          </div>
+        </header>
+        <main>
+          <h3>{title}</h3>
+          <p>{desc}</p>
 
-      <Link to={`/posts/${post.id}`}>Read more</Link>
-    </main>
-  </article>
+          <Link to={`/posts/${id}`}>Read more</Link>
+        </main>
+      </article>
+    </Default>
+    <Mobile>
+      <article className={`${styles.postPreview} ${styles.postMobile} ${className ? className : ""}`}>
+        <header>
+          <img src={img.src} alt={img.alt}/>
+          <div className={styles.img_bottom}>
+            <div className={styles.img_bottom_left}>
+              <p className={styles.author}>{author.name}</p>
+              <p className={styles.date}>{formatDate(date)}</p>
+            </div>
+            <div className={styles.img_bottom_right}>
+              <p>{category}</p>
+            </div>
+          </div>
+        </header>
+        <main>
+          <h3>{title}</h3>
+          <p>{desc}</p>
+
+          <Link to={`/posts/${id}`}>Read more</Link>
+        </main>
+      </article>
+    </Mobile>
+  </>
 );
 
 export default PostPreview;
@@ -39,7 +66,7 @@ export function formatDate(millis) {
     "Sep",
     "Oct",
     "Nov",
-    "Dec"
+    "Dec",
   ];
   const date = new Date(millis);
   const day = date.getDate();

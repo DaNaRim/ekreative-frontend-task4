@@ -1,12 +1,16 @@
 import {NavLink} from "react-router-dom";
 
-const NavHeader = () => (
-  <nav>
+const NavHeader = ({className, activeClassName}) => (
+  <nav className={className ? className : ""}>
     <ul>
-      <li><NavLink to="/">Home</NavLink></li>
-      <li><NavLink to="/">Products</NavLink></li>
-      <li><NavLink to="/category">Resources</NavLink></li>
-      <li><NavLink to="/">Pricing</NavLink></li>
+      <li><NavLink to="/"
+                   className={({isActive}) => isActive ? activeClassName : undefined}>Home</NavLink></li>
+      <li><NavLink to="/"
+                   className={({isActive}) => isActive ? activeClassName : undefined}>Products</NavLink></li>
+      <li><NavLink to="/category"
+                   className={({isActive}) => isActive ? activeClassName : undefined}>Resources</NavLink></li>
+      <li><NavLink to="/"
+                   className={({isActive}) => isActive ? activeClassName : undefined}>Pricing</NavLink></li>
     </ul>
   </nav>
 );
