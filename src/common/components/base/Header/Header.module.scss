@@ -38,7 +38,7 @@ $logoSize: 2em;
       }
     }
 
-    nav {
+    > nav {
       margin-left: 2.5em;
 
       ul {
@@ -70,6 +70,92 @@ $logoSize: 2em;
         white-space: nowrap;
         color: $grey600;
         background-color: transparent;
+      }
+    }
+  }
+}
+
+$mobileNavWidth: 10em;
+
+.main_header_mobile {
+  // position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.25em $sectionPaddingXMobile;
+  background-color: $grey50;
+
+  .leftSide {
+    display: flex;
+    align-items: center;
+
+    .logo {
+      @include logo;
+
+      .logoIcon {
+        //Styles imported from Header.logo. I add this to avoid warning in jsx file
+      }
+    }
+  }
+
+  > svg {
+    width: 1.5em;
+    height: 1.5em;
+    cursor: pointer;
+  }
+
+  .mobileNav {
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    right: -$mobileNavWidth;
+    box-sizing: border-box;
+    width: $mobileNavWidth;
+    height: 100vh;
+    padding: 3em 1em 1em;
+    transition: right 0.3s ease-in-out;
+    background-color: $primary600;
+
+    &.open {
+      right: 0;
+    }
+
+    > svg {
+      position: absolute;
+      top: 1.5em;
+      right: 1em;
+      width: 1.5em;
+      height: 1.5em;
+      cursor: pointer;
+    }
+
+    ul {
+      display: flex;
+      flex-direction: column;
+      padding: 0;
+      list-style: none;
+      gap: 1em;
+
+      li {
+        a:not(.activeNav):hover {
+          text-decoration: underline;
+        }
+
+        a.activeNav {
+          font-weight: bold;
+        }
+      }
+    }
+
+    .auth {
+      margin-top: 2em;
+
+      button {
+        width: 100%;
+
+        &:not(:first-child) {
+          margin-top: 0.5em;
+        }
       }
     }
   }
