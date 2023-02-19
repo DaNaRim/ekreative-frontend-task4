@@ -6,6 +6,7 @@ import {useSearchParams} from "react-router-dom";
 import postsData from "../../../../data/posts.json";
 import {Default, Mobile} from "../../../utils/ResponsiveWrappers";
 import InputSearch from "../../form/InputSearch/InputSearch";
+import Select from "../../form/Select/Select";
 import Pagination from "../../other/Pagination/Pagination";
 import PostPreview from "../../other/PostPreview/PostPreview";
 import styles from "./Posts.module.scss";
@@ -97,14 +98,10 @@ const Posts = () => {
         <section className={styles.posts}>
           <header>
             <InputSearch placeholder="Search" value={curSearch} setValue={handleSearch}/>
-            <div className={styles.order}>
-              <select name="order" value={order} onChange={e => handleOrder(e.target.value)}>
-                <option value="newestFirst">Newest first</option>
-                <option value="oldestFirst">Oldest first</option>
-                <option value="alphabetical">Alphabetical</option>
-              </select>
-              <FontAwesomeIcon icon="fa-solid fa-angle-down"/>
-            </div>
+            <Select name="order"
+                    value={order}
+                    onChange={handleOrder}
+                    options={["Newest first", "Oldest first", "Alphabetical"]}/>
           </header>
           <main>
             {postsToDisplay.length === 0 && <div className={styles.noPosts}>No posts found</div>}

@@ -4,8 +4,10 @@ import {useEffect, useState} from "react";
 import {useSearchParams} from "react-router-dom";
 import postsData from "../../../data/posts.json";
 import InputSearch from "../../components/form/InputSearch/InputSearch";
+import Select from "../../components/form/Select/Select";
 import CategoryPostPreview from "../../components/other/CategoryPostPreview/CategoryPostPreview";
 import Pagination from "../../components/other/Pagination/Pagination";
+import {Default, Mobile} from "../../utils/ResponsiveWrappers";
 import styles from "./CategoryPage.module.scss";
 
 library.add(faAngleDown);
@@ -90,39 +92,76 @@ const CategoryPage = () => {
   }, [search, currentPage, offset, searchParams, setSearchParams, category]);
 
   return (
-    <main className={styles.categoryPage}>
-      <header>
-        <p className={styles.preHeading}>Our blog</p>
-        <h1>Resources and insights</h1>
-        <p className={styles.desc}>The latest industry news, interviews, technologies, and resources.</p>
-      </header>
-      <main>
-        <aside>
-          <InputSearch className={styles.searchBar} placeholder="Search" value={search} setValue={handleSearch}/>
-          <p>Blog categories</p>
-          <ul>
-            {categories.map((c) => (
-              <li key={c} className={c === category ? styles.active : ""} onClick={() => handleCategory(c)}>
-                {c}
-              </li>
-            ))}
-          </ul>
-        </aside>
-        <section className={styles.posts}>
-          {postsToDisplay.length === 0 && <div className={styles.noPosts}>No posts found</div>}
-          {postsToDisplay.map((post, index) => (
-            <CategoryPostPreview key={post.id} {...post} isMainPost={index === 0}/>
-          ))}
-        </section>
-      </main>
-      <footer>
-        <Pagination currentPage={currentPage}
-                    lastPage={lastPage}
-                    handlePrevious={handlePrevious}
-                    handleNext={handleNext}
-                    handlePage={handlePage}/>
-      </footer>
-    </main>
+    <>
+      <Default>
+        <main className={styles.categoryPage}>
+          <header>
+            <p className={styles.preHeading}>Our blog</p>
+            <h1>Resources and insights</h1>
+            <p className={styles.desc}>The latest industry news, interviews, technologies, and resources.</p>
+          </header>
+          <main>
+            <aside>
+              <InputSearch className={styles.searchBar} placeholder="Search" value={search} setValue={handleSearch}/>
+              <p>Blog categories</p>
+              <ul>
+                {categories.map((c) => (
+                  <li key={c} className={c === category ? styles.active : ""} onClick={() => handleCategory(c)}>
+                    {c}
+                  </li>
+                ))}
+              </ul>
+            </aside>
+            <section className={styles.posts}>
+              {postsToDisplay.length === 0 && <div className={styles.noPosts}>No posts found</div>}
+              {postsToDisplay.map((post, index) => (
+                <CategoryPostPreview key={post.id} {...post} isMainPost={index === 0}/>
+              ))}
+            </section>
+          </main>
+          <footer>
+            <Pagination currentPage={currentPage}
+                        lastPage={lastPage}
+                        handlePrevious={handlePrevious}
+                        handleNext={handleNext}
+                        handlePage={handlePage}/>
+          </footer>
+        </main>
+      </Default>
+      <Mobile>
+        <main className={`${styles.categoryPage} ${styles.categoryPageMobile}`}>
+          <header>
+            <p className={styles.preHeading}>Our blog</p>
+            <h1>Resources and insights</h1>
+            <p className={styles.desc}>The latest industry news, interviews, technologies, and resources.</p>
+          </header>
+          <main>
+            <div className={styles.filters}>
+              <InputSearch className={styles.searchBar} placeholder="Search" value={search} setValue={handleSearch}/>
+              <Select className={styles.categories}
+                      name="categories"
+                      value={category}
+                      onChange={handleCategory}
+                      options={categories}
+                      isTransformOptions={false}/>
+            </div>
+            <section className={styles.posts}>
+              {postsToDisplay.length === 0 && <div className={styles.noPosts}>No posts found</div>}
+              {postsToDisplay.map((post, index) => (
+                <CategoryPostPreview key={post.id} {...post} isMainPost={index === 0}/>
+              ))}
+            </section>
+          </main>
+          <footer>
+            <Pagination currentPage={currentPage}
+                        lastPage={lastPage}
+                        handlePrevious={handlePrevious}
+                        handleNext={handleNext}
+                        handlePage={handlePage}/>
+          </footer>
+        </main>
+      </Mobile>
+    </>
   );
 };
 
