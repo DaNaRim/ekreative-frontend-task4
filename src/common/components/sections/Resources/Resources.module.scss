@@ -55,3 +55,37 @@
     }
   }
 }
+
+/*
+    Mobile
+ */
+
+.resourcesMobile {
+  padding: 4em $sectionPaddingXMobile;
+
+  .preHeading {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+  }
+
+  h1 {
+    font-size: 2.25rem;
+    line-height: 2.75rem;
+  }
+
+  .desc {
+    font-size: 1.125rem;
+    line-height: 1.725rem;
+    margin-top: 1em;
+  }
+
+  .inputWrapper {
+    flex-direction: column;
+    margin-top: 2em;
+    gap: 0.5em;
+
+    p, input, button {
+      width: 100%;
+    }
+  }
+}
