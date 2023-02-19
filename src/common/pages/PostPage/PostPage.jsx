@@ -25,7 +25,7 @@ const PostPage = () => {
       <Mobile>
         <main className={`${styles.postPage} ${styles.postPageMobile}`}>
           <PostPageHeader/>
-          <SmallPost className={styles.mainPost} isMainPost={true} {...mainPost}/>
+          <SmallPost className={styles.mainPost} {...mainPost}/>
           <SimilarPosts mainPost={mainPost}/>
           <LatestPosts/>
         </main>
