@@ -1,6 +1,24 @@
 @import "src/assets/styles/style-constants";
 @import "src/assets/styles/color-palette";
 
+@mixin arrowButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5em;
+  cursor: pointer;
+  border: 1px solid $grey200;
+  border-radius: 1.75em;
+  background: rgba(255, 255, 255, 0.9);
+  aspect-ratio: 1 / 1;
+  backdrop-filter: blur(4px);
+
+  &.disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+}
+
 .latestPosts {
   padding: 0 $sectionPaddingX 6em;
   background-color: $grey50;
@@ -41,22 +59,60 @@
       margin-left: 2em;
     }
 
-    > div {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 3.5em;
-      border: 1px solid $grey200;
-      border-radius: 1.75em;
-      background: rgba(255, 255, 255, 0.9);
-      aspect-ratio: 1 / 1;
-      backdrop-filter: blur(4px);
-      cursor: pointer;
+    > div[role="button"] {
+      @include arrowButton;
+    }
+  }
+}
 
-      &.disabled {
-        opacity: 0.5;
-        cursor: not-allowed;
+/*
+  Mobile
+ */
+
+.latestPostsMobile {
+  padding: 4em $sectionPaddingXMobile;
+
+  > header {
+    flex-direction: column;
+
+    h2 {
+      font-size: 1.875rem;
+      line-height: 2.25rem;
+    }
+
+    p {
+      font-size: 1.125rem;
+      line-height: 1.75rem;
+      margin-top: 1em;
+    }
+  }
+
+  > main {
+    align-items: center;
+    flex-direction: column;
+    row-gap: 2em;
+
+    .post {
+      width: 100%;
+    }
+  }
+
+  > footer {
+    display: block;
+
+    .buttons {
+      display: flex;
+      justify-content: space-between;
+
+      > div[role="button"] {
+        @include arrowButton;
+
       }
+    }
+
+    > button.viewAllButton {
+      margin: 3em 0 0;
+      width: 100%;
     }
   }
 }

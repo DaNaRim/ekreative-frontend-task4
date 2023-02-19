@@ -4,6 +4,7 @@ import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {useEffect, useState} from "react";
 import {useNavigate} from "react-router";
 import postsData from "../../../../data/posts.json";
+import {Default, Mobile} from "../../../utils/ResponsiveWrappers";
 import Button from "../../form/Button/Button";
 import SmallPost from "../../other/SmallPost/SmallPost";
 import styles from "./LatestPosts.module.scss";
@@ -53,30 +54,60 @@ const LatestPosts = () => {
   };
 
   return (
-    <section className={styles.latestPosts}>
-      <header>
-        <div className={styles.leftSide}>
-          <h2>Latest writings</h2>
-          <p>The latest news, technologies, and resources from our team.</p>
-        </div>
-        <Button onClick={handleViewAll}>View all posts</Button>
-      </header>
-      <main>
-        {postsToDisplay.map(post => (
-          <SmallPost key={post.id} {...post}/>
-        ))}
-      </main>
-      <footer>
-        <div role="button" onClick={handleSimilarPostsPrevious} className={page === 1 ? styles.disabled : ""}>
-          <FontAwesomeIcon icon="fa-solid fa-arrow-left"/>
-        </div>
-        <div role="button"
-             onClick={handleSimilarPostsNext}
-             className={page === lastPage || postsToDisplay.length === 0 ? styles.disabled : ""}>
-          <FontAwesomeIcon icon="fa-solid fa-arrow-right"/>
-        </div>
-      </footer>
-    </section>
+    <>
+      <Default>
+        <section className={styles.latestPosts}>
+          <header>
+            <div className={styles.leftSide}>
+              <h2>Latest writings</h2>
+              <p>The latest news, technologies, and resources from our team.</p>
+            </div>
+            <Button onClick={handleViewAll}>View all posts</Button>
+          </header>
+          <main>
+            {postsToDisplay.map(post => (
+              <SmallPost key={post.id} {...post}/>
+            ))}
+          </main>
+          <footer>
+            <div role="button" onClick={handleSimilarPostsPrevious} className={page === 1 ? styles.disabled : ""}>
+              <FontAwesomeIcon icon="fa-solid fa-arrow-left"/>
+            </div>
+            <div role="button"
+                 onClick={handleSimilarPostsNext}
+                 className={page === lastPage || postsToDisplay.length === 0 ? styles.disabled : ""}>
+              <FontAwesomeIcon icon="fa-solid fa-arrow-right"/>
+            </div>
+          </footer>
+        </section>
+      </Default>
+      <Mobile>
+        <section className={`${styles.latestPosts} ${styles.latestPostsMobile}`}>
+          <header>
+            <h2>Latest writings</h2>
+            <p>The latest news, technologies, and resources from our team.</p>
+          </header>
+          <main>
+            {postsToDisplay.map(post => (
+              <SmallPost className={styles.post} key={post.id} {...post}/>
+            ))}
+          </main>
+          <footer>
+            <div className={styles.buttons}>
+              <div role="button" onClick={handleSimilarPostsPrevious} className={page === 1 ? styles.disabled : ""}>
+                <FontAwesomeIcon icon="fa-solid fa-arrow-left"/>
+              </div>
+              <div role="button"
+                   onClick={handleSimilarPostsNext}
+                   className={page === lastPage || postsToDisplay.length === 0 ? styles.disabled : ""}>
+                <FontAwesomeIcon icon="fa-solid fa-arrow-right"/>
+              </div>
+            </div>
+            <Button className={styles.viewAllButton} onClick={handleViewAll}>View all posts</Button>
+          </footer>
+        </section>
+      </Mobile>
+    </>
   );
 };
 
