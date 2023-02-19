@@ -1,34 +1,34 @@
 {
   "files": {
-    "main.css": "/ekreative-frontend-task4/static/css/main.06456314.css",
-    "main.js": "/ekreative-frontend-task4/static/js/main.fd8ae2f7.js",
-    "static/css/877.a1630cc4.chunk.css": "/ekreative-frontend-task4/static/css/877.a1630cc4.chunk.css",
-    "static/js/877.e5b3e92e.chunk.js": "/ekreative-frontend-task4/static/js/877.e5b3e92e.chunk.js",
-    "static/css/726.ad2cd110.chunk.css": "/ekreative-frontend-task4/static/css/726.ad2cd110.chunk.css",
-    "static/js/726.7793d1b6.chunk.js": "/ekreative-frontend-task4/static/js/726.7793d1b6.chunk.js",
-    "static/css/795.633af5dd.chunk.css": "/ekreative-frontend-task4/static/css/795.633af5dd.chunk.css",
+    "main.css": "/ekreative-frontend-task4/static/css/main.e0d1ae1f.css",
+    "main.js": "/ekreative-frontend-task4/static/js/main.76c2a8e3.js",
+    "static/css/877.b5729e3c.chunk.css": "/ekreative-frontend-task4/static/css/877.b5729e3c.chunk.css",
+    "static/js/877.12bb9879.chunk.js": "/ekreative-frontend-task4/static/js/877.12bb9879.chunk.js",
+    "static/css/726.910dea3f.chunk.css": "/ekreative-frontend-task4/static/css/726.910dea3f.chunk.css",
+    "static/js/726.842c441a.chunk.js": "/ekreative-frontend-task4/static/js/726.842c441a.chunk.js",
+    "static/css/795.d9d50049.chunk.css": "/ekreative-frontend-task4/static/css/795.d9d50049.chunk.css",
     "static/js/795.98af2435.chunk.js": "/ekreative-frontend-task4/static/js/795.98af2435.chunk.js",
     "static/js/787.4d2d2861.chunk.js": "/ekreative-frontend-task4/static/js/787.4d2d2861.chunk.js",
-    "static/js/293.1c2add26.chunk.js": "/ekreative-frontend-task4/static/js/293.1c2add26.chunk.js",
+    "static/js/293.878c3dae.chunk.js": "/ekreative-frontend-task4/static/js/293.878c3dae.chunk.js",
     "static/media/start-trial3.jfif": "/ekreative-frontend-task4/static/media/start-trial3.4b15623c76787f9c60ae.jfif",
     "static/media/start-trial5.jpg": "/ekreative-frontend-task4/static/media/start-trial5.344044d7000136596eaa.jpg",
     "static/media/start-trial1.jpg": "/ekreative-frontend-task4/static/media/start-trial1.65d37297788f62a40318.jpg",
     "static/media/start-trial2.png": "/ekreative-frontend-task4/static/media/start-trial2.8a6340134c671513f316.png",
     "static/media/start-trial4.jpg": "/ekreative-frontend-task4/static/media/start-trial4.438ecba404ca6b9d0212.jpg",
     "index.html": "/ekreative-frontend-task4/index.html",
-    "main.06456314.css.map": "/ekreative-frontend-task4/static/css/main.06456314.css.map",
-    "main.fd8ae2f7.js.map": "/ekreative-frontend-task4/static/js/main.fd8ae2f7.js.map",
-    "877.a1630cc4.chunk.css.map": "/ekreative-frontend-task4/static/css/877.a1630cc4.chunk.css.map",
-    "877.e5b3e92e.chunk.js.map": "/ekreative-frontend-task4/static/js/877.e5b3e92e.chunk.js.map",
-    "726.ad2cd110.chunk.css.map": "/ekreative-frontend-task4/static/css/726.ad2cd110.chunk.css.map",
-    "726.7793d1b6.chunk.js.map": "/ekreative-frontend-task4/static/js/726.7793d1b6.chunk.js.map",
-    "795.633af5dd.chunk.css.map": "/ekreative-frontend-task4/static/css/795.633af5dd.chunk.css.map",
+    "main.e0d1ae1f.css.map": "/ekreative-frontend-task4/static/css/main.e0d1ae1f.css.map",
+    "main.76c2a8e3.js.map": "/ekreative-frontend-task4/static/js/main.76c2a8e3.js.map",
+    "877.b5729e3c.chunk.css.map": "/ekreative-frontend-task4/static/css/877.b5729e3c.chunk.css.map",
+    "877.12bb9879.chunk.js.map": "/ekreative-frontend-task4/static/js/877.12bb9879.chunk.js.map",
+    "726.910dea3f.chunk.css.map": "/ekreative-frontend-task4/static/css/726.910dea3f.chunk.css.map",
+    "726.842c441a.chunk.js.map": "/ekreative-frontend-task4/static/js/726.842c441a.chunk.js.map",
+    "795.d9d50049.chunk.css.map": "/ekreative-frontend-task4/static/css/795.d9d50049.chunk.css.map",
     "795.98af2435.chunk.js.map": "/ekreative-frontend-task4/static/js/795.98af2435.chunk.js.map",
     "787.4d2d2861.chunk.js.map": "/ekreative-frontend-task4/static/js/787.4d2d2861.chunk.js.map",
-    "293.1c2add26.chunk.js.map": "/ekreative-frontend-task4/static/js/293.1c2add26.chunk.js.map"
+    "293.878c3dae.chunk.js.map": "/ekreative-frontend-task4/static/js/293.878c3dae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06456314.css",
-    "static/js/main.fd8ae2f7.js"
+    "static/css/main.e0d1ae1f.css",
+    "static/js/main.76c2a8e3.js"
   ]
 }
