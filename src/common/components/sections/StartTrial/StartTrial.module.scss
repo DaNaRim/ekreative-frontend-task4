@@ -9,6 +9,7 @@
     padding: 6em $sectionPaddingX 0;
 
     .leftSide {
+      width: 35em;
 
       h2 {
         font-size: 3rem;
@@ -90,7 +91,7 @@
     align-items: center;
     box-sizing: border-box;
     height: 25em;
-    padding: 0 $sectionPaddingX 0;
+    padding: 0 $sectionPaddingX;
     background: linear-gradient(to bottom, white 50%, $grey800 50%);
 
     .footerWrapper {
@@ -130,6 +131,80 @@
 
         button:nth-child(2) {
           margin-left: 0.75em;
+        }
+      }
+    }
+  }
+}
+
+/*
+  Mobile
+ */
+
+.startTrialMobile {
+
+  main {
+    flex-direction: column;
+    padding: 4em $sectionPaddingXMobile;
+
+    .leftSide {
+      width: 100%;
+
+      h2 {
+        font-size: 1.875rem;
+        line-height: 2.25rem;
+      }
+
+      > p {
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+        margin-top: 1em;
+      }
+
+      .btnWrapper {
+        display: flex;
+        flex-direction: column;
+        margin-top: 2em;
+
+        button {
+          width: 100%;
+
+          &:not(:first-child) {
+            margin: 0.75em 0 0;
+          }
+        }
+      }
+    }
+
+    .rightSide {
+      margin-top: 4em;
+    }
+  }
+
+  > footer {
+    padding: 0 $sectionPaddingXMobile;
+
+    .footerWrapper {
+      flex-direction: column;
+
+      .leftSide {
+        p {
+          font-size: 1.125rem;
+          line-height: 1.75rem;
+        }
+      }
+
+      .rightSide {
+        display: flex;
+        flex-direction: column;
+        margin-top: 2em;
+
+        button {
+          width: 100%;
+
+          &:not(:first-child) {
+            margin: 0.75em 0 0;
+          }
         }
       }
     }
